@@ -8,7 +8,7 @@
   * [Demo Video](#Project-Demo-Video)
   * [Questions?](#questions)
   ## Project Description
-  This is an employee tracker using Inquirer to get the user's input and express.js to handler routes and responses and MySQL to store the data to the database.
+  This is an employee tracker using Inquirer to get the user's input and express.js to handle routes and responses and MySQL to store the data to the database.
   ## Installation
   npm install
   ## Usage
